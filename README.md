@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hbslawyer
-- 👀 I’m interested in coding since I used to code and a degree in computer science / electronics. My day job is about law and arbitration. 
+- 👀 I’m interested in coding my degree days in computer science / electronics. My day job is about law and arbitration. 
 - 🌱 I’m currently learning many things. 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me on Linkedin at https://www.linkedin.com/in/hbs/ 
